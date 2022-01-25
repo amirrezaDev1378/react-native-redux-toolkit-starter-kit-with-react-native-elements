@@ -1,0 +1,3 @@
+usage : npm install
+
+react-native run-android --port=4510
